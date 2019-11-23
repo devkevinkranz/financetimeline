@@ -14,6 +14,16 @@
                     </div> 
 
                 </div>
+		 <nav class='nav-item-wrap'> 
+                    <ul class='main-nav-menu main-nav-menu-effect' id='menu-menu-1'> 
+                        <li><a expr:href='data:blog.homepageUrl'>Home</a></li>
+                        <li><a href='#'>Showcase</a></li> 
+                        <li><a href='#'>Works</a></li> 
+                        <li><a href='#'>News</a></li> 
+                        <li><a href='#'>Agency</a></li> 
+                        <li><a href='#'>Shop</a></li> 
+                    </ul> 
+                </nav>
   </head>
   <body>
   
